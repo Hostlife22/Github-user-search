@@ -2,7 +2,11 @@
 
 ### [Site link](https://hostlife22.github.io/Github-user-search/)
 
-## Search for a github account and output information using a request to the server
+<kbd>
+  <img align="right" alt="img" src="U3EC0s4.jpeg"  />
+ </kbd>
+
+
 
 ### The tech stack is:
  
